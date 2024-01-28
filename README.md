@@ -42,3 +42,15 @@ This will check for implicit type conversion in C code.  This is part of the ext
     * `R -d lldb`
     * enter "run" to start R
     * `testthat::test_local()` to run package tests
+
+
+# Reading list
+
+* https://cran.r-project.org/web/packages/submission_checklist.html
+* https://cran.r-project.org/web/packages/policies.html
+* https://github.com/ThinkR-open/prepare-for-cran
+* https://r-pkgs.org/
+* https://github.com/DavisVaughan/extrachecks
+* https://github.com/r-hub/rhub2
+* https://win-builder.r-project.org/
+* https://mac.r-project.org/macbuilder/submit.html
