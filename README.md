@@ -31,7 +31,7 @@ Run these checks as a github action using the [`{rhub2}`](https://github.com/r-h
 
 ## Recompile to check implicit type conversions in C code
 
-Add `PKG_CFLAGS+=-Wconversion` and rebuild package.
+Add `PKG_CFLAGS+=-Wconversion` to `src/Makevars` and rebuild package.
 
 This will check for implicit type conversion in C code.  This is part of the extra testing run by CRAN after the package has been accepted.
 
