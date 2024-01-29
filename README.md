@@ -72,7 +72,7 @@ Notes about fixes for CRAN I've had to do when submitting a package
 
 * In `DESCRIPTION`, the `Description` text should put all software names in single quotes.
     * A package submission was rejected as I said `C library` when I should have had `'C' library`
-* Names in `LICENSE` and `Authors` field in `DESCRIPTION` should match
+* The name for the copyright holder in `LICENSE` file, and the copyright holder in the `Authors` field in `DESCRIPTION` should match
 
 
 
