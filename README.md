@@ -1,9 +1,32 @@
-# CRAN-checks
-Notes about fixes for CRAN I've had to do when submitting a package
+# Checking a package for submission to CRAN
 
-* In `DESCRIPTION`, the `Description` text should put all software names in single quotes.
-    * A package submission was rejected as I said `C library` when I should have had `'C' library`
-* Names in `LICENSE` and `Authors` field in `DESCRIPTION` should match
+CRAN has some quite detailed requirements on what is/isn't allowed in packages.   These 
+requirements are detailed in the [CRAN submission checklist](https://cran.r-project.org/web/packages/submission_checklist.html)
+and their [policies document](https://cran.r-project.org/web/packages/policies.html).
+
+The reference checklist from CRAN is pretty dense, so I can recommend also reading two friendlier guides:
+
+* [Preparing your package for a CRAN submission](https://github.com/ThinkR-open/prepare-for-cran) by [ThinkR](https://github.com/ThinkR-open)
+* [Extrachecks](https://github.com/DavisVaughan/extrachecks) by [Davis Vaughan](https://github.com/DavisVaughan)
+
+In additional to these general checklists, it's also worth having the computer run lots of automatic checks, and this document 
+outlines what I have in place for automatic testing.
+
+
+
+*( First of all - actually have tests for your package.  I can recommend [`{testthat}`](https://cran.r-project.org/package=testthat) as a solid testing package.
+* Locally run tests when you make changes to ensure you haven't broken things
+*  Run `R CMD CHECK` often.  Fix all warnings and notes.
+    * In rstudio, this is the called "Check Package"
+* Run `R CMD CHECK --as-cran` for even stricter checks propr to uploading package to CRAN
+* If developing on GitHub, you can use [GitHub Actions](https://docs.github.com/en/actions) to run `R CMD CHECK` on a variety of different machines.
+* Upload your package to `win-builder` to test on multiple windows environemnts
+* Upload your package to `mac-builder` to test on macOS
+* If your package includes C code:
+    * Check for implicit type conversion
+    * Check for bad pointer arithmetic
+    * Build/test package using clang-ASAN
+    * Build/test package using valgrind 
 
 ## Run `R CMD CHECK --as-cran`
 
@@ -42,6 +65,15 @@ This will check for implicit type conversion in C code.  This is part of the ext
     * `R -d lldb`
     * enter "run" to start R
     * `testthat::test_local()` to run package tests
+
+# Miscellaneous fixes for CRAN
+
+Notes about fixes for CRAN I've had to do when submitting a package
+
+* In `DESCRIPTION`, the `Description` text should put all software names in single quotes.
+    * A package submission was rejected as I said `C library` when I should have had `'C' library`
+* Names in `LICENSE` and `Authors` field in `DESCRIPTION` should match
+
 
 
 # Reading list
