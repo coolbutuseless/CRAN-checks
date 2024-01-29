@@ -14,7 +14,7 @@ outlines what I have in place for automatic testing.
 
 
 
-*( First of all - actually have tests for your package.  I can recommend [`{testthat}`](https://cran.r-project.org/package=testthat) as a solid testing package.
+* First of all - actually have tests for your package.  I can recommend [`{testthat}`](https://cran.r-project.org/package=testthat) as a solid testing package.
 * Locally run tests when you make changes to ensure you haven't broken things
 *  Run `R CMD CHECK` often.  Fix all warnings and notes.
     * In rstudio, this is the called "Check Package"
