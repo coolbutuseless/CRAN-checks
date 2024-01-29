@@ -18,7 +18,7 @@ outlines what I have in place for automatic testing.
 * Locally run tests when you make changes to ensure you haven't broken things
 *  Run `R CMD CHECK` often.  Fix all warnings and notes.
     * In rstudio, this is the called "Check Package"
-* Run `R CMD CHECK --as-cran` for even stricter checks propr to uploading package to CRAN
+* Run `R CMD CHECK --as-cran` for even stricter checks prior to uploading package to CRAN
 * If developing on GitHub, you can use [GitHub Actions](https://docs.github.com/en/actions) to run `R CMD CHECK` on a variety of different machines.
 * Upload your package to `win-builder` to test on multiple windows environemnts
 * Upload your package to `mac-builder` to test on macOS
