@@ -52,6 +52,17 @@ Memory checking using clang-ASAN and valgrind can be very difficult to set up.
 
 Run these checks as a github action using the [`{rhub2}`](https://github.com/r-hub/rhub2) package
 
+* Go to github and create a Personal Access Token (PAT) (if you haven't created one already, or your prior one has expired):
+    * https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+    * https://github.com/settings/tokens
+* Copy your created github PAT to your clipboard
+* Use the `{gitcreds}` package for managing git token.   `install.packages('gitcreds')`
+* `gitcreds::gitcreds_set()`, select option to set new token, paste the PAT token.
+* Install `{rhub2}` - `remotes::install_github('https://github.com/r-hub/rhub2')`
+* `rhub_setup()` then commit the new rhub.yaml file
+* `rhub_doctor(repo_url)` to check it's all working
+* `rhub_check(repo_url)` to select which machines to run tests on 
+
 ## Recompile to check implicit type conversions in C code
 
 Add `PKG_CFLAGS+=-Wconversion` to `src/Makevars` and rebuild package.
