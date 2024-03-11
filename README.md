@@ -77,13 +77,26 @@ This will check for implicit type conversion in C code.  This is part of the ext
     * enter "run" to start R
     * `testthat::test_local()` to run package tests
 
-# Miscellaneous fixes for CRAN
+## Copyright of included code
+
+* Set author/copyright holder as 'ctb' and 'cph' in Authors@R
+* Include 'Copyright:' section in description and refer to 'inst/COPYRIGHTS' file
+* Include LICENSE files for any included code in `inst` directory and refer to them in `inst/COPYRIGHTS`
+
+## Miscellaneous fixes for CRAN
 
 Notes about fixes for CRAN I've had to do when submitting a package
 
 * In `DESCRIPTION`, the `Description` text should put all software names in single quotes.
     * A package submission was rejected as I said `C library` when I should have had `'C' library`
 * The name for the copyright holder in `LICENSE` file, and the copyright holder in the `Authors` field in `DESCRIPTION` should match
+
+# Reminders
+
+* Have you called `normalizePath()` on all the file paths?
+* Does every exported function have `@examples`?
+* Correctly assigned copyright?
+
 
 
 
