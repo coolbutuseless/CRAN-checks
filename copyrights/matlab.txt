@@ -1,0 +1,13 @@
+###
+### $Id: COPYRIGHTS 33 2022-05-30 23:26:19Z proebuck $
+###
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: matlab
+Upstream-Contact: P. Roebuck <proebuck1701@gmail.com>
+Source: https://cran.r-project.org/package=matlab
+
+Files: *
+Copyright: 2004-2014, MD Anderson Cancer Center (MDACC)
+License: Artistic-2.0
+

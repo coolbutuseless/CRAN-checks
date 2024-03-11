@@ -1,0 +1,10 @@
+COPYRIGHT STATUS
+----------------
+
+The code in the R package "NPCD" is
+
+  Copyright (C) 2015 Yi Zheng and Chia-Yi Chiu
+
+All code is subject to the GNU General Public License, Version 2.1.  See
+the file COPYING for the exact conditions under which you may
+redistribute it.

@@ -1,0 +1,80 @@
+Below is the copyright information for all file formats, data item codes, and
+SAS code found in files in the `data-raw` and `ignore/format-sources` directories.
+
+Copyright: Codes from the United States Centers for Disease Control and
+Prevention are public domain under 17 U.S. Code § 105.
+Files:
+  - `data-raw/code-labels/ambiguousTerminologyDx.csv`
+  - `data-raw/code-labels/censusCodSys19708090.csv`
+  - `data-raw/code-labels/censusTrCert19708090.csv`
+  - `data-raw/code-labels/codingSystemForEod.csv`
+  - `data-raw/code-labels/computedEthnicity.csv`
+  - `data-raw/code-labels/computedEthnicitySource.csv`
+  - `data-raw/code-labels/derived_seer_stage.csv`
+  - `data-raw/code-labels/derivedSeerCmbMSrc.csv`
+  - `data-raw/code-labels/derivedSeerCmbNSrc.csv`
+  - `data-raw/code-labels/derivedSeerCmbTSrc.csv`
+  - `data-raw/code-labels/icdO2ConversionFlag.csv`
+  - `data-raw/code-labels/icdRevisionNumber.csv`
+  - `data-raw/code-labels/maritalStatusAtDx.csv`
+  - `data-raw/code-labels/multTumRptAsOnePrim.csv`
+  - `data-raw/code-labels/overRideAgeSiteMorph.csv`
+  - `data-raw/code-labels/overRideHistology.csv`
+  - `data-raw/code-labels/rxHospRadiation.csv`
+  - `data-raw/code-labels/rxSummRadiation.csv`
+  - `data-raw/code-labels/seer_summary_stage.csv`
+  - `data-raw/code-labels/seer_summary_stage_2018.csv`
+  - `data-raw/code-labels/seerTypeOfFollowUp.csv`
+  - `data-raw/code-labels/state.csv`
+  - `data-raw/code-labels/tumor_marker.csv`
+  - `data-raw/code-labels/typeOfReportingSource.csv`
+  - `data-raw/sentinel-labels/multiplicityCounter.csv`
+  - `data-raw/sentinel-labels/sequenceNumberCentral.csv`
+  - `data-raw/sentinel-labels/tumor_size.csv`
+  - All other instances of codes as defined in the International Classification
+    of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM).
+
+Copyright: Codes created by United States National Program of Cancer Registries
+are public domain under 17 U.S. Code § 105.
+Files:
+  - `data-raw/code-labels/censusOccIndSys7000.csv`
+  - `data-raw/code-labels/cocAccreditedFlag.csv`
+  - `data-raw/code-labels/industrySource.csv`
+  - `data-raw/code-labels/occupationSource.csv`
+  - `data-raw/code-labels/place.csv`
+
+Copyright: World Health Organization
+The World Health Organization has granted permission for this package to use
+their work.
+Files:
+  - `data-raw/code-labels/grade.csv`
+  - All other instances of topology or morphology codes as defined in the
+    International Classification of Diseases for Oncology, Third Revision (ICD-O-3).
+
+Copyright: Codes created by United States Bureau of the Census are public domain
+under 17 U.S. Code § 105.
+Files:
+  - `ignore/census-codes/2010-occ-codes-with-crosswalk-from-2002-2011.xls`
+  - `ignore/census-codes/industry-crosswalk-90-00-02-07-12.xls`
+  - `ignore/census-codes/occ2000t.pdf`
+  - `ignore/census-codes/PHVS_Industry_CDC_Census2010.txt`
+  - `ignore/census-codes/PHVS_Occupation_CDC_Census2010_V1.txt`
+  - `data-raw/code-labels/censusIndCode19702000.csv`
+  - `data-raw/code-labels/censusIndCode2010.csv`
+  - `data-raw/code-labels/censusOccCode19702000.csv`
+  - `data-raw/code-labels/censusOccCode2010.csv`
+
+Copyright: North American Association of Central Cancer Registries
+The North American Association of Central Cancer Registries has granted
+permission for this package to use their work.
+Files:
+  - All files in the `data-raw/code-labels` and `data-raw/sentinel-labels`
+    directories and not already attributed above.
+  - `data-raw/custom-country-codes.csv`
+  - `data-raw/record-formats/*`
+  - `ignore/format-sources/naaccr-xml-items-180.csv`
+  - `ignore/format-sources/ReadWriteNAACCR_V15 with CER PCOR variables.sas`
+  - `ignore/format-sources/ReadWriteNAACCR_V16 with CER PCOR variables.sas`
+  - `ignore/format-sources/SASReadWriteNAACCRV_13.sas`
+  - `ignore/format-sources/SASReadWriteNAACCRV_14WithCERPCORVars-3.sas`
+  - `ignore/format-sources/SASstatementsForNAACCRV12ReadWrite.sas`

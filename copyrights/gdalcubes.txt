@@ -1,0 +1,46 @@
+Files: *
+Copyright (c) 2018-2019 Marius Appel
+License: MIT
+
+==============================================================
+
+Files: src/gdalcubes/src/external/tinyexpr/*
+Copyright (c) 2015-2018 Lewis Van Winkle
+License: zlib
+Origin: https://github.com/codeplea/tinyexpr
+Modifications (c) 2019 Marius Appel:
+- added bit-wise and logical operators
+- fixed ISO C -Wpedantic warnings due to using void* for function pointers
+- see https://github.com/appelmar/gdalcubes/commit/f9a7514ad2a62492d4594bae23b1c0d016c5f7f3
+
+==============================================================
+
+Files: src/gdalcubes/src/external/tiny-process-library/*
+Copyright (c) 2015-2018 Ole Christian Eidheim
+License: MIT
+Origin: https://gitlab.com/eidheim/tiny-process-library
+Modifications (c) 2019 Marius Appel:
+- replaced _exit() and exit() calls by raise(SIGKILL) to pass R CMD check
+- see https://github.com/appelmar/gdalcubes/commit/43cdcb92e330ed14680878fa680d2d6d2ad7508e#diff-1cfc0ab73288f62ced18a0ba07c708f6
+
+==============================================================
+
+File: src/gdalcubes/src/external/json11/*
+Copyright (c) 2013 Dropbox, Inc.
+License: MIT
+Origin: https://github.com/dropbox/json11
+
+==============================================================
+
+File: src/gdalcubes/src/external/date.hpp
+Copyright (c) 2015, 2016, 2017 Howard Hinnant
+Copyright (c) 2016 Adrian Colomitchi
+Copyright (c) 2017 Florian Dang
+Copyright (c) 2017 Paul Thompson
+Copyright (c) 2018 Tomasz Kamiński
+License: MIT
+Origin: https://github.com/HowardHinnant/date
+Modifications (c) 2019 Marius Appel:
+- commented out diagnostic pragmas to pass R CMD check
+- added a compilation flag for enabling __int128 support
+- see https://github.com/appelmar/gdalcubes/commit/9e936155489a97c5bb211e13e757236762ee1d96

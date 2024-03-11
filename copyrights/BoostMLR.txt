@@ -1,0 +1,51 @@
+////**********************************************************************
+////**********************************************************************
+////
+////  BOOSTING FOR MULTIVARIATE LONGITUDINAL RESPONSE (BOOSTMLR)
+////  Version 1.0 (_PROJECT_BUILD_ID_)
+////
+////  Copyright 2020, Cleveland Clinic
+////
+////  This program is free software; you can redistribute it and/or
+////  modify it under the terms of the GNU General Public License
+////  as published by the Free Software Foundation; either version 3
+////  of the License, or (at your option) any later version.
+////
+////  This program is distributed in the hope that it will be useful,
+////  but WITHOUT ANY WARRANTY; without even the implied warranty of
+////  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+////  GNU General Public License for more details.
+////
+////  You should have received a copy of the GNU General Public
+////  License along with this program; if not, write to the Free
+////  Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+////  Boston, MA  02110-1301, USA.
+////
+////  ----------------------------------------------------------------
+////  Written by:
+////  ----------------------------------------------------------------
+////    Amol Pande, Ph.D.
+////    Assistant Staff,
+////    Thoracic and Cardiovascular Surgery
+////    Heart and Vascular Institute
+////    JJ4, Room 508B,
+////    9500 Euclid Ave,
+////    Cleveland Clinic, Cleveland, Ohio, 44195
+////
+////    email:  amoljpande@gmail.com
+////    --------------------------------------------------------------
+////    Hemant Ishwaran, Ph.D.
+////    Professor, Division of Biostatistics
+////    Clinical Research Building, Room 1058
+////    1120 NW 14th Street
+////    University of Miami, Miami FL 33136
+////
+////    email:  hemant.ishwaran@gmail.com
+////    URL:    http://web.ccs.miami.edu/~hishwaran
+////
+////    --------------------------------------------------------------
+////
+////**********************************************************************
+////**********************************************************************
+
+

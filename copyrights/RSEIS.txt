@@ -1,0 +1,5 @@
+Some functions were translated from code written in matlab:
+
+Copyright 1984-2002 The MathWorks, Inc.
+Copyright 1990 Regents of the University of California
+Copyright Lawrence Livermore National Laboratory

@@ -1,0 +1,14 @@
+###
+### $Id: COPYRIGHTS
+###
+
+Files: *
+Copyright: 2008-2020, The University of Texas MD Anderson Cancer Center
+License: Artistic-2.0
+
+Files: R/bisection.search.R
+Copyright: 2004-2020, Institute for Mathematics Applied Geosciences (IMAGe)
+	at the National Center for Atmospheric Research (NCAR)
+License: Artistic-2.0
+Comment: Used with permission of Doug Nychka. Original from 'fields' R package.
+

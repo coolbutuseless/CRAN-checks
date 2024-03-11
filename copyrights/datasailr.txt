@@ -1,0 +1,4 @@
+YEAR: 2018-2020
+COPYRIGHT HOLDER: Toshihiro Umehara
+
+About third party libraries, please also see DESCRIPTION file.

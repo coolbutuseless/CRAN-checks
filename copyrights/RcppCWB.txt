@@ -1,0 +1,27 @@
+The following authorship and copyright information is reproduced from:
+http://cwb.sourceforge.net/license.php
+
+
+Corpus Workbench (CWB)
+----------------------
+  
+Copyright and Authors
+
+- Copyright (c) 1993–2006 by IMS, University of Stuttgart
+- Copyright (c) 2007–2013 by the Open IMS Corpus Workbench Development Team
+- MinGW and Unicode support Copyright © 2009–2010 ANR Textométrie, ENS de Lyon
+
+Version 3.0 of the CWB includes the Editline (CSTR) library: Copyright (c) 1992
+by Rich Salz & Simmule Turner, Copyright (c) 1999 by Alan W. Black, Richard
+Caley & J. G. Vons
+
+The IMS Corpus Workbench was initially developed by Oliver Christ at the IMS
+(University of Stuttgart), with some contributions by Bruno M. Schulze. It has
+been maintained since 1998 by Stefan Evert, who is also leading the current
+open-source development. CQPweb is the work of Andrew Hardie, inspired by the more
+specialised BNCweb interface. 
+
+The CWB source code and CQPweb are distributed under the terms of the GNU Public
+License (GPL), version 2 or any later version.
+
+See https://www.gnu.org/licenses/gpl-3.0.en.html.

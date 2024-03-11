@@ -1,0 +1,2 @@
+MNI152_T1_2mm_brain.nii.gz from Copyright (C) 1993-2009 Louis
+Collins, McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University 6th generation non-linear symmetric brain.

@@ -1,0 +1,16 @@
+COPYRIGHT STATUS
+----------------
+
+The R and the package C code is
+
+  Copyright (C) 2007 Christian Buchta and Michael Hahsler
+
+The cSPADE and TPOSE C++ code is
+
+  Copyright (C) 2001 Mohammed Javeed Zaki
+
+The mmap C code for Windows is
+
+  Copyright (C) 2012 Daniel Diaz
+  
+All code is subject to the GNU General Public License, Version 2.

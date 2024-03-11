@@ -1,0 +1,4 @@
+Files: R/*
+Copyright: Copyright (C) 2014-2021 the NIMBLE authors.
+Copyright: Copyright (C) 2017-2021 David Pleydell.
+License: BSD_3_clause

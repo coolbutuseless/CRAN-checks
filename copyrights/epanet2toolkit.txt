@@ -1,0 +1,24 @@
+Copyright in epanet2toolkit is held by IBM Corp. 2017 except as noted below.  
+
+Copyright in the following files is held by Open Water Analytics 2017:
+src/enumstxt.h
+src/epanet.c
+src/epanet2.h              
+src/funcs.h                      
+src/hash.c   
+src/hash.h   
+src/hydraul.c
+src/input1.c 
+src/input2.c 
+src/input3.c 
+src/inpfile.c
+src/mempool.c  
+src/mempool.h
+src/output.c 
+src/quality.c
+src/report.c
+src/rules.c
+src/smatrix.c 
+src/text.h
+src/types.h
+src/vars.h

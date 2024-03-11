@@ -1,0 +1,34 @@
+The datasets published with this package are derived from open datasets published
+on the Data.NSW (https://data.nsw.gov.au/) and data.gov.au (https://data.gov.au/)
+portals.
+
+data/covid_cases_nsw.rda
+  © State of New South Wales 2020-2022
+  https://www.nsw.gov.au/copyright
+
+data/lhd.rda
+  © State of New South Wales NSW Ministry of Health 2023
+  https://www.health.nsw.gov.au/pages/copyright.aspx
+
+data/phn.rda
+  © Commonwealth of Australia 2021
+
+data/australia.rda
+data/act.rda
+data/jbt.rda
+data/lga_nsw.rda
+data/lhi.rda
+data/nsw.rda
+data/poa_nsw.rda
+data/states.rda
+data/sydney.rda
+  © Commonwealth of Australia 2021
+  https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons
+
+data/suburbs.rda
+  © State of New South Wales (Spatial Services, a business unit of the Department of Customer Service NSW)
+  https://portal.spatial.nsw.gov.au/portal/home/item.html?id=38bdaa10b7cc41a3a19be6eca91f5368
+  Spatial Services, a division of the Department of Customer Service creates and
+  manages Intellectual Property for the Crown in right of New South Wales.
+  To the extent that Creative Commons licensing applies, all data and other
+  material produced by Spatial Services constitutes Crown copyright.

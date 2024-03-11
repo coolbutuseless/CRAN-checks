@@ -1,0 +1,11 @@
+COPYRIGHT STATUS
+----------------
+
+This code is
+
+  Copyright (C) Alexios Galanos 2012-2013 (<=Aug)
+  Copyright (C) Alexios Galanos and Bernhard Pfaff 2013 (>Aug) - 2014
+  
+All code is subject to the GNU General Public License, Version 3. See
+the file COPYING for the exact conditions under which you may
+redistribute it.

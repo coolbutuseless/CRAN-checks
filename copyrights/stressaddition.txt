@@ -1,0 +1,13 @@
+Copyright (c) 2020,
+Helmholtz-Zentrum fuer Umweltforschung GmbH - UFZ.
+All rights reserved.
+
+The code is a property of:
+
+Helmholtz-Zentrum fuer Umweltforschung GmbH - UFZ
+Registered Office: Leipzig
+Registration Office: Amtsgericht Leipzig
+Trade Register: Nr. B 4703
+Chairman of the Supervisory Board: MinDirig'in Oda Keppler
+Scientific Director: Prof. Dr. Georg Teutsch
+Administrative Director: Dr. Sabine König

@@ -1,0 +1,14 @@
+R package TDA includes open source C++ libraries GUDHI, Dionysus, PHAT, Boost, CGAL. Some files of included Boost are taken from R package BH.
+
+Below are the authors of the included files from each library:
+* GUDHI: Clement Maria, Vincent Rouvreau, Marc Glisse, and David Salinas.
+* Dionysus: Dmitriy Morozov and John Weaver.
+* PHAT: Ulrich Bauer, Michael Kerber, and Jan Reininghaus.
+* Boost: Ion Gaztanaga and Robert Ramey.
+* BH: Dirk Eddelbuettel, John W. Emerson and Michael J. Kane.
+* CGAL: Pierre Alliez, Herve Bronnimann, Fernando Cacciola, Christophe Delage, Olivier Devillers, Andreas Fabri, BerndGaertner, Geert-Jan Giezeman, Alberto Ganesh Barbati, Simon Giraudot, Marc Glisse, Philippe Guigue, Julien Hazebrouck, Michael Hemmer, Michael Hoffmann, Dominik Huelse, Samuel Hornus, Clement Jamin, Tran Kai Frank DA, MenelaosKaravelas, Lutz Kettner, Nico Kruithof, Damien Leroy, Sebastien Loriot, Pedro Machado, Andreas Meyer, Philipp Moller, Sylvain Pion, Laurent Rineau, Mael Rouxel-Labbe, Laurent Saboret, Stefan Schirra, Sven Schonherr, Michael Seel, Stephane Tayeb, Monique Teillaud, Jane Tournois, Radu Ursu, Ron Wein, Wieger Wesselink, CamilleWormser, and Mariette Yvinec. 
+
+Below are the copyright holders of the included files from each library:
+* GUDHI: INRIA Saclay (France) and INRIA Sophia Antipolis-Mediterranee (France).
+* PHAT: IST (Austria).
+* CGAL: Utrecht University (The Netherlands), ETH Zurich (Switzerland), INRIA Sophia-Antipolis (France), INRIA Lorraine (France), INRIA Saclay-Ile de France (France), GeometryFactory (France), Max-Planck-Institute Saarbruecken (Germany), and Tel-Aviv University (Israel). 

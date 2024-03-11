@@ -1,0 +1,52 @@
+Files:  R/datasets.R
+        R/meanImp_emmeans.R
+        R/mi4limma.R
+        R/mi4p-package.R
+        R/multi_impute.R
+        R/MVgen.R
+        R/proj_matrix.R
+        R/protdatasim.R
+        R/rubin1_all.R
+        R/rubin1_one.R
+        R/rubin2_all.R
+        R/rubin2bt_all.R
+        R/rubin2bt_one.R
+        R/rubin2wt_all.R
+        R/rubin2wt_one.R
+        R/within_variance_comp_emmeans.R
+Copyright: Marie Chion, Christine Carapito and Frederic Bertrand
+License: GPL2+
+
+
+Files:  eBayes_mod.R
+        hid_ebayes.R
+Copyright: Marie Chion, Christine Carapito, Frederic Bertrand, Gordon Smyth and Davis McCarthy
+License: GPL2+
+  
+
+Files:  limmaCompleteTest_mod.R
+        formatLimmaResult.R
+Copyright: Marie Chion, Christine Carapito, Frederic Bertrand, Hélène Borges, Thomas Burger, Quentin Giai-Gianetto and Samuel Wieczorek
+License: Artistic-2.0
+
+
+$COPYRIGHT$
+  
+The copyright holders provide no reassurances that the source code
+provided does not infringe any patent, copyright, or any other
+intellectual property rights of third parties.  The copyright holders
+disclaim any liability to any recipient for claims brought against
+recipient by any third party for infringement of that parties
+intellectual property rights.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT 
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

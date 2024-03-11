@@ -1,0 +1,77 @@
+excursions, Copyright (c) 2012, 2013, 2014, David Bolin and Finn Lindgren
+Various files in this package have different copyrights.
+
+The R package and code, and the main programs, were written by and are
+Copyright by David Bolin and Finn Lindgren, as listed below, and are
+redistributable under the GNU Public License, version 3 or later.
+The package also includes code from the library CAMD from the SuiteSparse
+collection of Tim Davis, as well as functions from the GNU Scientific
+library and the RngStreams library by Pierre L'Ecuyer. All sections of
+that code are covered by GPL or LGPL licenses. For detailed copyright
+and license information, see the individual library copyright files
+in copying/, listed below.
+
+Copyright: David Bolin, Finn Lindgren (2012, 2013)
+License: GPL version 3 or later
+R/excursions.R
+R/excursions.int.R
+R/excursions.inla.R
+R/excursions.simconf.R
+src/excursions.cpp
+src/gaussint.cpp
+src/integration.cpp
+src/integration.h
+src/utils.cpp
+src/utils.h
+
+Copyright: David Bolin, Finn Lindgren (2014)
+License: GPL version 3 or later
+R/contourmap.R
+R/contourmap.inla.R
+R/contourutil.R
+R/geometry.R
+R/geometry_obsolete.R
+R/inlautils.R
+R/simconf.inla.R
+R/simconf.mixture.R
+R/simconf.R
+
+Copyright: Finn Lindgren (2014)
+License: GPL version 3 or later
+src/gsl_fix.h
+
+
+Copyright: Håvard Rue, David Bolin, Finn Lindgren (2013)
+License: GPL version 3 or later
+R/utils.R
+
+Copyright: Pierre L'Ecuyer, University of Montreal
+License: GPL version 2 or later
+From version 1.0.1 packaged by Josef Leydold at
+  http://statmath.wu.ac.at/software/RngStreams/
+src/RngStream.c
+src/RngStream.h
+
+Copyright information in copying/CAMD.txt
+src/CAMD/ (entire directory)
+
+Copyright information in copying/SuiteSparse_config.txt
+src/SuiteSparse_config/ (entire directory)
+
+Licence
+=======
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Version 3 of the GPL license can be displayed by 'RShowDoc("LGPL-3")' in R.

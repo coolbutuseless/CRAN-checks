@@ -1,0 +1,8 @@
+
+Copyright (c) 2014 - date, Thilo Klein
+
+The R function hri2 in this package uses code from:
+
+- Stable matching suite, Copyright (c) 2014, Fahiem Bacchus
+
+- MiniSat solver, Copyright (c) 2007, Niklas Sorensson

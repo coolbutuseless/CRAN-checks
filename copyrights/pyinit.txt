@@ -1,0 +1,14 @@
+File: src/PartialSort.c
+    Copyright (C) for the C code of the partial quicksort algorithm in
+    src/PartialSort.c belongs to Ariel Faigon (1987).
+
+File: src/mscale.c
+    The C code for the rho functions belongs to the authors of R package
+    robustbase_0.92-5 with Copyright (C)
+     * Peter Rousseeuw and Christophe Croux;
+     * Valentin Todorov <valentin.todorov@chello.at>
+     * Andreas Ruckstuhl <andreas.ruckstuhl@zhaw.ch>
+     * Matias Salibian-Barrera <matias@stat.ubc.ca>
+     * Tobias Verbeke <tobias.verbeke@openanalytics.eu>
+     * Manuel Koller <mkoller@ispm.unibe.ch>
+     * Martin Maechler <maechler@stat.math.ethz.ch>

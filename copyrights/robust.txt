@@ -1,0 +1,5 @@
+Robust Library : Copyright (c) 2002, 2006 Insightful Corp. (now TIBCO)
+Robust Library : Copyright (c) 2007 R. Douglas Martin and Kjell P. Konis
+All rights reserved.
+
+

@@ -1,0 +1,16 @@
+Overall license:
+----------------
+
+  This package is released under CC-BY-SA 4.0 license.
+
+  Various data sources used to generate word lists, as well
+  as some of the included word lists themselves are under public
+  domain. Those under public domain are explicitly referred to
+  as such within the documentation.
+
+
+Details:
+--------
+
+  Files: *
+  Copyright: 2021 Max Candocia

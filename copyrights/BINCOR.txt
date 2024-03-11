@@ -1,0 +1,7 @@
+The code of this package (functions: bin_cor, plot_ts_cor_ts and ccf_ts) is licensed under GPL 2 or later and
+was programmed by Josué M. Polanco-Martínez. 
+
+For code (redfitTauest and redfitMinls functions, which are used in bin_cor function) contributed by Mikko Korpela:
+* Copyright (C) 2013-2015 Aalto University
+
+

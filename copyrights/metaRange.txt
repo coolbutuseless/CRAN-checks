@@ -1,0 +1,24 @@
+metaRange copyright: 2023 metaRange authors & contributors (see DESCRIPTION)
+metaRange is licensed under GPL-3 and includes work from or links during compilation
+to the following open source projects:
+
+* dispersal.cpp (in metaRange) is derived/ build upon the example of the
+  function "convolution_cpp" in the file:
+  https://github.com/tylermorganwall/rayimage/blob/master/src/pointspread.cpp
+  from the R package: "rayimage"
+  It is not a direct copy of the code/ functionality but uses it as a template
+  for the convolution, specifically the indexing and use of submatrices.
+  License: GPL-3
+  Copyright: Tyler Morgan-Wall
+  Links:
+      https://www.rayimage.dev, https://github.com/tylermorganwall/rayimage
+
+* metaRange uses and links to the R package "Rcpp"
+  License: GPL (>= 2)
+  Copyright: Dirk Eddelbuettel, Romain Francois, JJ Allaire, Kevin Ushey, Qiang Kou, Nathan Russell, Inaki Ucar, Douglas Bates and John Chambers
+  Links: https://github.com/RcppCore/Rcpp
+
+* metaRange uses and links to the R package "RcppArmadillo"
+  License: GPL (>= 2)
+  Copyright: Dirk Eddelbuettel, Romain Francois, Doug Bates, Binxiang Ni, and Conrad Sanderson
+  Links: https://github.com/RcppCore/RcppArmadillo

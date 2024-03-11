@@ -1,0 +1,18 @@
+This R-package contains data published by Met Eireann, and downloaded from their web site in November 2019.
+
+Copyright (c) 2017  Met Eireann,  All rights reserved.
+
+Source: www.met.ie
+
+This data is published under a Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+The data has been modified.
+New columns added to the data for Year, Month, Day and Hour. Columns representing indicators were removed, and the column date transformed to an R dttm type.
+
+
+$COPYRIGHT$
+
+Met Eireann does not accept any liability whatsoever for any error or omission in the data, their availability, or for any loss or damage arising from their use.
+
+

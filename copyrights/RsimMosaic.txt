@@ -1,0 +1,13 @@
+
+---------------------------
+ extdata/verySmallMoon.jpg
+---------------------------
+FullMoon2010 CC BY-SA 3.0 by Gregory H. Revera - Own work
+Full Moon photograph taken 10-22-2010 from Madison, Alabama, USA. Photographed with a Celestron 9.25 Schmidt-Cassegrain telescope. Acquired with a Canon EOS Rebel T1i (EOS 500D), 20 images stacked to reduce noise. 200 ISO 1/640 sec.
+https://en.wikipedia.org/wiki/Moon#mediaviewer/File:FullMoon2010.jpg
+
+
+---------------------------
+ extdata/2Massier
+---------------------------
+This publication makes use of data products from the Two Micron All Sky Survey, which is a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.

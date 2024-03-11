@@ -1,0 +1,66 @@
+
+Overall license:
+================
+   The (vast) majority of the files in this package are released under the
+   BSL-1.0.
+
+   The aggregation, integration and packaging work is released under the
+   GNU GPL (>= 2) with the added provision that the package as a whole is
+   licensed under the BSL-1.0.
+
+Details:
+========
+
+Files: *
+Copyright: 2015 - 2016  Dirk Eddelbuettel
+License: GPL (>= 2)
+
+Files inst/include/*:
+Copyright: 2003 - 2015 Christopher M. Kohlhoff (chris at kohlhoff dot com)
+License: BSL-1.0
+
+Files inst/include/asio/ssl/detail/impl/openssl_init.ipp:
+Files inst/include/asio/ssl/impl/context.hpp:
+Files inst/include/asio/ssl/impl/context.ipp:
+Copyright: 2005 Voipster / Indrek dot Juhani at voipster dot com
+License: BSL-1.0
+
+Files inst/include/asio/detail/impl/win_object_handle_service.ipp:
+Files inst/include/asio/detail/win_object_handle_service.hpp:
+Files inst/include/asio/windows/basic_object_handle.hpp:
+Files inst/include/asio/windows/object_handle.hpp:
+Files inst/include/asio/windows/object_handle_service.hpp:
+Copyright: 2011 Boris Schaeling (boris@highscore.de)
+License: BSL-1.0
+
+Files inst/include/asio/basic_serial_port.hpp:
+Files inst/include/asio/detail/impl/reactive_serial_port_service.ipp:
+Files inst/include/asio/detail/impl/win_iocp_handle_service.ipp:
+Files inst/include/asio/detail/impl/win_iocp_serial_port_service.ipp:
+Files inst/include/asio/detail/reactive_serial_port_service.hpp:
+Files inst/include/asio/detail/win_iocp_handle_service.hpp:
+Files inst/include/asio/detail/win_iocp_handle_write_op.hpp:
+Files inst/include/asio/detail/win_iocp_serial_port_service.hpp:
+Files inst/include/asio/impl/serial_port_base.hpp:
+Files inst/include/asio/serial_port.hpp:
+Files inst/include/asio/serial_port_base.hpp:
+Copyright: 2008 Rep Invariant Systems, Inc. (info@repinvariant.com)
+License: BSL-1.0
+
+Files inst/include/asio/detail/eventfd_select_interrupter.hpp:
+Files inst/include/asio/detail/impl/eventfd_select_interrupter.ipp:
+Copyright: 2008 Roelof Naude (roelof.naude at gmail dot com)
+License: BSL-1.0
+
+Files inst/include/asio/detail/impl/kqueue_reactor.hpp:
+Files inst/include/asio/detail/impl/kqueue_reactor.ipp:
+Files inst/include/asio/detail/kqueue_reactor.hpp:
+Copyright:  2005 Stefan Arentz (stefan at soze dot com)
+License: BSL-1.0
+
+Files inst/include/asio/ip/impl/network_v4.ipp:
+Files inst/include/asio/ip/impl/network_v6.ipp:
+Files inst/include/asio/ip/network_v4.hpp:
+Files inst/include/asio/ip/network_v6.hpp:
+Copyright: 2014 Oliver Kowalke (oliver dot kowalke at gmail dot com)
+License: BSL-1.0

@@ -1,0 +1,105 @@
+
+CC_Avg30_spectrum_CGATS.txt 
+has spectral data for the ColorChecker Classic.
+"ColorChecker Classic" is a Registered Trademark of 
+X-Rite Inc.
+4300 44th St. SE
+Grand Rapids MI 49512 
+
+
+Flea2.RGB
+has data copied from spec sheets of the Flea2 camera. Flea2 is a trademark of 
+Point Grey Research
+12051 Riverside Way
+Richmond, BC, Canada,  V6W 1K7
+https://www.ptgrey.com/flea2-ieee-1394b-firewire-cameras
+
+
+Hoya
+contains data copied from spec sheets of
+HOYA CORPORATION USA
+Optics Division
+680 N. McCarthy Blvd.
+Suite 120
+Milpitas, CA 95035
+http://hoyaoptics.com/products/document_library.htm
+
+
+Lumencor-SpectraX.txt
+Lumencor SpectraX Light Engine is a trademark of
+Lumencor, Inc.
+14940 NW Greenbrier Parkway
+Beaverton, OR 97006 USA
+http://lumencor.com/products/spectra-x-light-engine/
+
+
+Falcon-spectral.txt
+Falcon 4M30 is a trademark of Teledyne DALSA
+605 McMurray Road
+Waterloo, Ontario
+Canada     N2V 2E9
+https://www.teledynedalsa.com/corp/
+
+
+Red-Epic-Dragon.txt
+EPIC-M RED Dragon is a trademark of 
+RED
+34 Parker
+Irvine, CA 92618
+United States 
+http://us.red.com/
+
+
+Toshiba-TCD2712DGspectral.txt
+This CCD Linear Image Sensor is made by:
+Toshiba Corporation
+1-1, Shibaura 1-chome, Minato-ku, Tokyo, JP
+
+
+FoveonX3.txt
+Foveon X3 is a trademark of:
+Foveon, Inc.
+2249 Zanker Road
+San Jose, CA  95131 
+http://foveon.com/article.php?a=74
+
+
+Zyla_sCMOS.txt
+Zyla is a trademark of:
+Andor Technology Ltd.
+7 Millennium Way
+Springvale Business Park
+Belfast BT12 7AL, UK
+
+
+Midwest-SP700-2014.txt
+The SP700 IR-blocker filter is manufactured by:
+Midwest Optical Systems, Inc.
+322 Woodwork Lane
+Palatine, IL 60067 USA
+http://midopt.com/filters/sp700/
+
+E131102.txt  and  N130501.txt
+All transmittance data dowloaded from:
+Wolf Faust
+Berger Str. 195
+60385 Frankfurt
+Germany 
+http://www.targets.coloraid.de/
+
+Rosco.txt
+All transmission data transcribed from images published by:
+Rosco Laboratories Inc.
+52 Harbor View,
+Stamford, CT
+USA, 06902 
+http://rosco.com/filters/roscolux.cfm#colors
+
+moonlight.txt
+Marcel van der Steen
+ORIGINAL FILENAME: 004_measurementsMoonSpectrum_OliNo.org_.csv
+URL:        http://www.olino.org/us/articles/2015/10/05/spectrum-of-moon-light
+
+NCSU  (The Vrehl Spectral Data Set)
+http://www.viegroup.com/mvrhelweb/color.html
+http://www.cns.nyu.edu/pub/ltm/SSR/kodak/

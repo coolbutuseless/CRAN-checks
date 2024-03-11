@@ -1,0 +1,12 @@
+The package BeastJar includes other software components. The following is a list of these components:
+
+** Bayesian Evolutionary Analysis Sampling Trees (BEAST)
+
+   Copyright (c) 2002-2020 Alexei J. Drummond, Andrew Rambaut and Marc A. Suchard
+
+   BEAST is distributed under the terms of the GNU Lesser General Public License.
+
+   Project Website: http://beast.community
+   License Information: https://github.com/beast-dev/beast-mcmc/blob/master/LICENSE
+
+   Related JAR: beast.jar

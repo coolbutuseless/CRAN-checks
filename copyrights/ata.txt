@@ -1,0 +1,17 @@
+This packges, and its associated files, was created by the authores/creators identified. Various files where developed in association with functions from other packages and thus different copyrights are acknowledged here.
+
+R/atalp.R
+R/makeconstobj.R
+R/plot.ata
+R/summary.R
+R/wdm.R
+
+Copyright 2019-2020 (c) Gulsah Gurkan & Michael Chajewski
+
+The R/atalp function is developed using the lpSolve package lp function code originally written by Sam Buttrey and implemented in accordance with the package's LGPL-2 license by Gulsah Gurkan and Michael Chajewski.
+
+R/lp.R
+
+Copyright 2015 (c) Sam Buttrey & Michel Berkelaar
+
+

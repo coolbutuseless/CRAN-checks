@@ -1,0 +1,25 @@
+* The `lazy' package is the R port of 
+
+     The Lazy Learning Toolbox for Use with MATLAB(tm) Version 1.0 
+     Copyright (c) 1999 Mauro Birattari and Gianluca Bontempi
+ 
+  NOTE: Matlab is a trademark of The Math Works, Inc.
+
+
+* The `lazy' package tries to mimic the input/output behavior of
+  `loess' as defined in package `modreg' version 1.7.1 which is
+  copyrighted by Brian Ripley and the R Core Team and licensed under the
+  terms of the GNU GENERAL PUBLIC LICENSE.  
+
+  In particular, the file lazy.R contains R code copied from the
+  package `modreg' (although slightly modified).
+
+  Also the manual pages of the package `lazy' were strongly influenced
+  by those of `loess'. In particular, the example in `lazy.Rd' is copied
+  from the one given in the `loess' man page.
+
+ 
+* The rest of the package `lazy' is copyrighted by Mauro Birattari and
+  Gianluca Bontempi
+
+

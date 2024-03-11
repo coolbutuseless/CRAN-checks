@@ -1,0 +1,93 @@
+This package is provided you under the terms of the GNU General Public License
+version 3.
+
+Included below is license and copyright information for externally maintained
+libraries used by vol2birdR.
+
+====
+
+libhlhdf is written by Anders Henja
+
+libhlhdf is licensed for use as follows:
+
+====
+
+Copyright 2009 Swedish Meteorological and Hydrological Institute, SMHI,
+
+This file is part of HLHDF.
+
+HLHDF is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+HLHDF is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with HLHDF.  If not, see <http://www.gnu.org/licenses/>.
+
+====
+
+librave is written by Anders Henja
+
+librave is licensed for use as follows:
+
+====
+
+Copyright 2009- Swedish Meteorological and Hydrological Institute, SMHI,
+
+This file is part of RAVE.
+
+RAVE is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+RAVE is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with RAVE.  If not, see <http://www.gnu.org/licenses/>.
+
+====
+
+librsl is written by John H. Merritt with contributions by Bart Kelley
+
+librsl is licensed for use as follows:
+
+====
+
+    NASA/TRMM, Code 910.1.
+    This is the TRMM Office Radar Software Library.
+    Copyright (C) 1996  John H. Merritt
+                        Space Applications Corporation
+                        Vienna, Virginia, a NASA/GSFC on-site contractor.
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Library General Public
+    License as published by the Free Software Foundation; either
+    version 2 of the License, or (at your option) any later version.
+
+    This library is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Library General Public License for more details.
+
+    You should have received a copy of the GNU Library General Public
+    License along with this library; if not, write to the Free
+    Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+====
+src/includes/libmistnet/mistnet.h
+mistnet/CMakeLists.txt 
+
+Ideas and some code in these files originates from https://github.com/mlverse/torch after
+email exchange with Daniel Falbel (Copyright) about pros and cons. All credit should go to him.
+Original licensed with MIT. https://github.com/mlverse/torch/blob/main/LICENSE.md
+====
+

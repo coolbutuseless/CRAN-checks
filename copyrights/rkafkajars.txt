@@ -1,0 +1,119 @@
+The package 'rkafkajars' includes other open source software
+components. The following is a list of these components:
+
+** Metrics Core Library
+
+   Copyright 2010-2012 Coda Hale and Yammer, Inc.
+   Source: http://mvnrepository.com/artifact/com.yammer.metrics/metrics-core/2.2.0
+   License Information: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+   Related files: inst/java/com/yammer/metrics
+
+** JavaMail API
+
+   Copyright 1997-2006 Sun Microsystems, Inc. All Rights Reserved.
+
+   Source: http://mvnrepository.com/artifact/javax.mail/mail/1.4
+   License Information: https://glassfish.dev.java.net/public/CDDLv1.0.html
+
+   Related files: inst/java/javax/mail
+
+** JavaBeans(TM) Activation Framework
+
+   Copyright 1997-2005 Sun Microsystems, Inc. All Rights Reserved.
+
+   Source: http://mvnrepository.com/artifact/javax.activation/activation/1.1
+   License Information: https://glassfish.dev.java.net/public/CDDLv1.0.html
+
+   Related files: inst/java/javax/activation
+
+** JLine
+
+   Copyright (c) 2002-2007, Marc Prud'hommeaux. All rights reserved.
+
+   Source: http://mvnrepository.com/artifact/jline/jline/0.9.94
+   License Information: http://mvnrepository.com/artifact/jline/jline/LICENSE.txt
+
+   Related files: inst/java/jline
+
+** JOpt Simple
+
+   Copyright (c) 2009 Paul R. Holser, Jr.
+
+   Source: http://mvnrepository.com/artifact/net.sf.jopt-simple/jopt-simple/3.2
+   License Information: http://www.opensource.org/licenses/mit-license.php
+
+   Related files:  inst/java/joptsimple
+
+** JUnit
+
+   Copyright © 2002-2014 JUnit. All Rights Reserved.
+
+   Source: http://mvnrepository.com/artifact/junit/junit/3.8.1
+   License Information: http://www.opensource.org/licenses/cpl1.0.txt
+
+   Related files: inst/java/junit3.8.1
+
+** Apache Kafka
+
+   Copyright 2009-2012 The Apache Software Foundation
+
+   Source: http://mvnrepository.com/artifact/org.apache.kafka/kafka_2.8.0/0.8.1.1
+   License Information: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+   Related files:  inst/java/kafka
+
+** Zookeeper
+
+   Copyright 2009-2012 The Apache Software Foundation
+
+   Source: http://mvnrepository.com/artifact/org.apache.zookeeper/zookeeper/3.3.4
+   License Information: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+   Related files:  inst/java/org/apache/zookeeper
+
+** Apache Log4j
+
+   Copyright © 1999-2012 Apache Software Foundation.
+
+   Source: http://mvnrepository.com/artifact/log4j/log4j/1.2.15
+   License Information: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+   Related files:  inst/java/org/apache/log4j
+
+** ZkClient
+
+   Copyright 2009 Stefan Groschupf
+
+   Source: http://mvnrepository.com/artifact/com.101tec/zkclient/0.3
+   License Information: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+   Related files:  inst/java/org/I0Itec/zkclient
+
+ ** Snappy Java
+
+   Copyright 2008 Taro L. Saito
+
+   Source: http://mvnrepository.com/artifact/org.xerial.snappy/snappy-java/1.0.5
+   License Information: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+   Related files:  inst/java/org/xerial/snappy
+
+ ** Scala Library
+
+   Copyright (c) 2002-2015 EPFL
+   Copyright (c) 2011-2015 Typesafe, Inc.
+
+   Source: http://mvnrepository.com/artifact/org.scala-lang/scala-library/2.8.0
+   License Information: http://www.scala-lang.org/downloads/license.html
+
+   Related files:  inst/java/scala
+
+ ** SLF4J API Module
+
+   Copyright (c) 2004-2013 QOS.ch All rights reserved.
+
+   Source: http://mvnrepository.com/artifact/org.slf4j/slf4j-api/1.7.2
+   License Information: http://opensource.org/licenses/mit-license.php
+
+   Related files:  inst/java/org/slf4j

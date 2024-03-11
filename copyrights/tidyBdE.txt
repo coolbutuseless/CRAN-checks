@@ -1,0 +1,13 @@
+The source of each series is provided in the field 'Fuente' of the corresponding
+catalog. For example, for series 2665111:
+
+knitr::kable(
+  bde_catalog_search("2665111")[c(
+    "Numero_secuencial",
+    "Fuente"
+  )]
+)
+
+|Numero_secuencial |Fuente   |
+|:-----------------|:--------|
+|2665111           |Eurostat |

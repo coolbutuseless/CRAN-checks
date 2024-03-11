@@ -1,0 +1,159 @@
+# plu
+
+Copyright (c) 2020 Alexander Rossell Hayes
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+# AGID
+
+**plu** uses data from the [**Automatically Generated Inflection Database (AGID)**](http://wordlist.aspell.net/agid-readme/), which is released under the following license:
+
+The final product is under the following copyright, as well as any
+copyrights mentioned below.
+
+  Copyright 2000-2014 by Kevin Atkinson
+
+  Permission to use, copy, modify, distribute and sell this database,
+  the associated scripts, the output created form the scripts and its
+  documentation for any purpose is hereby granted without fee,
+  provided that the above copyright notice appears in all copies and
+  that both that copyright notice and this permission notice appear in
+  supporting documentation. Kevin Atkinson makes no representations
+  about the suitability of this array for any purpose. It is provided
+  "as is" without express or implied warranty.
+
+The part-of-speech database is taken from Alan Beale 2of12id
+and the WordNet database which is under the following copyright:
+
+  This software and database is being provided to you, the LICENSEE, by
+  Princeton University under the following license.  By obtaining, using
+  and/or copying this software and database, you agree that you have
+  read, understood, and will comply with these terms and conditions.:
+
+  Permission to use, copy, modify and distribute this software and
+  database and its documentation for any purpose and without fee or
+  royalty is hereby granted, provided that you agree to comply with
+  the following copyright notice and statements, including the disclaimer,
+  and that the same appear on ALL copies of the software, database and
+  documentation, including modifications that you make for internal
+  use or for distribution.
+
+  WordNet 1.6 Copyright 1997 by Princeton University.  All rights reserved.
+
+  THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
+  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+  IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
+  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+  ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE
+  OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT
+  INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR
+  OTHER RIGHTS.
+
+  The name of Princeton University or Princeton may not be used in
+  advertising or publicity pertaining to distribution of the software
+  and/or database.  Title to copyright in this software, database and
+  any associated documentation shall at all times remain with
+  Princeton University and LICENSEE agrees to preserve same.
+
+Alan Beale 2of12id.txt is indirectly derived from the Moby part-of-speech
+database and the WordNet database.  The Moby part-of-speech is in the
+public domain:
+
+  The Moby lexicon project is complete and has
+  been place into the public domain. Use, sell,
+  rework, excerpt and use in any way on any platform.
+
+  Placing this material on internal or public servers is
+  also encouraged. The compiler is not aware of any
+  export restrictions so freely distribute world-wide.
+
+  You can verify the public domain status by contacting
+
+  Grady Ward
+  3449 Martha Ct.
+  Arcata, CA  95521-4884
+
+  grady@netcom.com
+  grady@northcoast.com
+
+The word list used is a combination of several word list:
+
+1) The ENABLE2K word lists which is in the public domain:
+
+    The ENABLE master word list, WORD.LST, is herewith formally
+    released into the Public Domain. Anyone is free to use it or
+    distribute it in any manner they see fit. No fee or registration
+    is required for its use nor are "contributions" solicited (if you
+    feel you absolutely must contribute something for your own peace
+    of mind, the authors of the ENABLE list ask that you make a
+    donation on their behalf to your favorite charity). This word
+    list is our gift to the Scrabble community, as an alternate to
+    "official" word lists. Game designers may feel free to
+    incorporate the WORD.LST into their games. Please mention the
+    source and credit us as originators of the list. Note that if
+    you, as a game designer, use the WORD.LST in your product, you
+    may still copyright and protect your product, but you may *not*
+    legally copyright or in any way restrict redistribution of the
+    WORD.LST portion of your product. This *may* under law restrict
+    your rights to restrict your users' rights, but that is only
+    fair.
+
+2) All of the word lists except ABLE.LST in the ENABLE2K Supplemnt
+   which consists of:
+
+     2DICTS.LST  ALSO.LST   LETTERS.LST  OSPDADD.LST  UCACR.LST
+     LCACR.LST  NOPOS.LST    PLURALS.LST  UPPER.LST
+
+   All of these word lists are also in the public domain.
+
+3) The list of signature words from the YAWL package which is in the
+   public domain.
+
+4) The UK Advanced Cryptics Dictionary which in under the following
+   copyright:
+
+     Copyright (c) J Ross Beresford 1993-1999. All Rights Reserved.
+
+     The following restriction is placed on the use of this
+     publication: if The UK Advanced Cryptics Dictionary is used
+     in a software package or redistributed in any form, the
+     copyright notice must be prominently displayed and the text
+     of this document must be included verbatim.
+
+     There are no other restrictions: I would like to see the
+     list distributed as widely as possible.
+
+5) Some extra words found in the Part-Of-Speech database that was not
+   found in any of the above word lists.
+
+6) Words found in the Jargon File Word List package, available at
+   http://aspell.sourceforge.net/wl/, which is in the Public Domain.
+
+7) Words in 2of12id.txt not in any of the word lists above.  2of12id is
+   indirectly derived from all the above sources and most of the word
+   lists from the Moby Words package:
+
+     10196pla.ces 113809of.fic 21986na.mes 256772co.mpo 354984si.ngl
+     3897male.nam 4160offi.cia 4946fema.len 6213acro.nym 74550com.mon
+
+   The Moby Word package, like the Part-Of-Speech database is in the
+   public domain.
+
+8) And finally some extra words that I added myself.  These words can be
+   found in the file "extra-words"

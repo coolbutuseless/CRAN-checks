@@ -1,0 +1,10 @@
+src/bvls.f
+  From the source code accompanying the article 
+
+  Stark PB, Parker RL (1995). Bounded-variable least-squares:
+  an algorithm and applications, Computational Statistics, 10, 129-141,
+
+  and downloaded from http://lib.stat.cmu.edu/general/bvls The code
+  was modified slightly to allow compatibility with gfortran.  The
+  authors have agreed to allow distribution under GPL version 2 or
+  newer.

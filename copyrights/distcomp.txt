@@ -1,0 +1,26 @@
+Parts of this package are directly lifted, and in some cases modified,
+from the 'survival' package on CRAN (with permission, of course). The
+authorship and copyrights for them rest with the original authors and
+copyright holders of the 'survival' package, copied below.
+
+The affected files are:
+
+R/dccoxph.R
+R/dccoxph.fit.R
+src/chinv2.c
+src/cholesky2.c
+src/chsolve2.c
+src/coxcount1.c
+src/coxfit6.c
+src/coxmart.c
+src/dmatrix.c
+src/init.c
+src/survS.h
+src/survproto.h
+
+
+Original Copyright from 'survival' package:
+
+Copyright 2000 Mayo Foundation for Medical Education and Research.  This
+software is accepted by users "as is" and without warranties or guarantees
+of any kind.

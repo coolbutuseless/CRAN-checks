@@ -1,0 +1,7 @@
+The package examples make use of the "cars" data set provided by the datasets 
+package.
+
+R Core Team (2018). “R: A Language and Environment for Statistical Computing” 
+<URL: https://www.R-project.org/
+
+

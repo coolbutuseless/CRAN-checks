@@ -1,0 +1,4 @@
+R/matern.R
+Copyright (C) P. J. Ribeiro and P. J. Diggle
+Distributed under the GPL-2 or GPL-3 licence
+Originally included in package geoR

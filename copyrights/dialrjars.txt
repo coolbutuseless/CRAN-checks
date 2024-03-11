@@ -1,0 +1,9 @@
+The package dialrjars includes other open source software
+components. The following is a list of these components:
+
+** libphonenumber
+
+   Copyright (c) 2009-2015 The Libphonenumber Authors.
+
+   Project Website: https://github.com/google/libphonenumber
+   License Information: http://www.apache.org/licenses/LICENSE-2.0

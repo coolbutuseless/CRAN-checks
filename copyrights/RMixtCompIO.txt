@@ -1,0 +1,6 @@
+- For CppOptimizationLibrary (src/optim):
+Copyright (c) 2014-2015 Patrick Wieschollek
+Copyright (c) 2015-     Patrick Wieschollek, Tobias Wood and the respective contributors (https://github.com/PatWie/CppNumericalSolvers/graphs/contributors)
+
+- The rest of the package:
+Copyright (c) Inria - Université de Lille - CNRS

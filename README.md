@@ -82,6 +82,7 @@ This will check for implicit type conversion in C code.  This is part of the ext
 * Set author/copyright holder as 'ctb' and 'cph' in Authors@R
 * Include 'Copyright:' section in description and refer to 'inst/COPYRIGHTS' file
 * Include LICENSE files for any included code in `inst` directory and refer to them in `inst/COPYRIGHTS`
+* Lots of examples `COPYRIGHTS` files from current packages in CRAN are in the `copyrights/` directory.
 
 ## Miscellaneous fixes for CRAN
 

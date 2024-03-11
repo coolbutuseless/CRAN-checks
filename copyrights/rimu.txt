@@ -1,0 +1,1 @@
+Some mr_* functions are based on code from the forcats package by Hadley Wickham and co-workers, under GPL-3. 

@@ -1,0 +1,38 @@
+rmumps package includes several software packages. Here we list their copyright holders.
+
+MUMPS software
+--------------
+Copyright 1991-2017 CERFACS, CNRS, ENS Lyon, INP Toulouse, Inria, University of Bordeaux.
+Licensed under the CeCILL-C license.
+
+PORD ordering software
+----------------------
+It was developed in University of Paderborn and it is in public domain.
+
+METIS ordering software
+-----------------------
+Copyright 1995-2013, Regents of the University of Minnesota
+Licensed under the Apache License, Version 2.0
+
+Some files in METIS are extracted from third part software:
+ - GNU C Library
+   Copyright (C) 2002, 2003, 2005 Free Software Foundation, Inc.
+   Licensed under the GNU Lesser General Public License.
+ - Copyright (c) 2006 Alexander Chemeris
+ - Copyright (C) 2004, Makoto Matsumoto and Takuji Nishimura
+
+
+SCOTCH ordering software
+------------------------
+Copyright 2004,2007-2012 IPB, Universite de Bordeaux, INRIA & CNRS
+Licensed under the CeCILL-C license.
+
+Some files in SCOTCH have the following mention:
+Copyright (C) 1995 Timothy A. Davis, Patrick Amestoy, Iain S. Duff, John K. Reid
+Copyright (C) 1984, 1989-1990, 2000-2013 Free Software Foundation, Inc.
+Copyright (c) 2004-2012 Samuel Thibault, licensed under a BSD 2-Clause License
+
+RMUMPS wrapper itself
+---------------------
+Copyright 2015-2024 INRAE/INSA/CNRS
+Licensed under GPL (>= 2)

@@ -1,0 +1,7 @@
+The "dcm2niix" tool, upon which the "divest" R package is built, is copyright (C) 2014-2016 Chris Rorden (BSD licence).
+
+The included NanoJPEG library is copyright (C) 2009-2016 Martin J. Fiedler (MIT licence).
+
+The included TinyDir library is copyright (C) 2013-2014 Cong Xu (BSD licence).
+
+The included memmem implementation is copyright (C) 2005 Pascal Gloor (BSD licence).

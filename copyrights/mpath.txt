@@ -1,0 +1,30 @@
+zipath and predprob were derived from zeroinfl (Achim Zeileis) and predprob.R (Simon Jackman), respectively  in package pscl
+Author: Simon Jackman, with contributions from Alex Tahk, Achim Zeileis, Christina Maimone and Jim Fearon
+License GPL-2
+
+glmregNB derived from glm.nb in package MASS 
+Authors@R: c(person("Brian", "Ripley", role = c("aut", "cre", "cph"),
+        email = "ripley@stats.ox.ac.uk"), person("Kurt", "Hornik", role
+        = "trl", comment = "partial port ca 1998"), person("Albrecht",
+        "Gebhardt", role = "trl", comment = "partial port ca 1998"),
+        person("David", "Firth", role = "ctb"))
+License: GPL-2 | GPL-3
+
+convexMin modified from ncvreg version: 3.1-0
+Author: Patrick Breheny
+License GPL-2
+
+several functions inspired by package sandwich version 2.3.0
+Author: Thomas Lumley [aut], Achim Zeileis [aut, cre] 
+Maintainer: Achim Zeileis <Achim.Zeileis at R-project.org> 
+License: GPL-2 
+
+nonzeroCoef and plotCoef are from glmnet_3.0-0 which doesn't export     nonzeronCoef and plotCoef function
+ Authors@R: c(person("Jerome", "Friedman", role=c("aut")),
+           person("Trevor", "Hastie", role=c("aut", "cre"), email="hastie@stanford.edu")
+           person("Rob", "Tibshirani", role=c("aut")),
+           person("Balasubramanian", "Narasimhan", role=c("aut")),
+           person("Noah", "Simon", role=c("aut")),
+           person("Junyang", "Qian", role=c("ctb")))
+License GPL-2
+

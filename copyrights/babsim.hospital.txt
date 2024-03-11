@@ -1,0 +1,13 @@
+Dataset GermanCountes & GermanStates
+====================================
+
+The datasets GermanCounties and GermanStates are dervied from public data of
+the German Federal Statistical Office (Destatis). They are
+
+  (c) Daten (im Auftrag der Herausgebergemeinschaft Statistische Ämter des Bundes und der Länder)
+      Statistisches Bundesamt (Destatis), 2020
+      Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet.
+
+  (c) Data (commissioned by the Statistical Offices of the Federation and the States)
+      Federal Statistical Office (Destatis), 2020
+      Reproduction and dissemination, including excerpts, permitted provided the source is acknowledged.

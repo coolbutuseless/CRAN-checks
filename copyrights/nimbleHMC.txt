@@ -1,0 +1,3 @@
+Files: R/*
+Copyright: Copyright (C) 2023 the NIMBLE authors.
+License: BSD_3_clause

@@ -1,0 +1,7 @@
+For SUNDIALS code:
+Copyright (c) 2002-2022, Lawrence Livermore National Security and Southern Methodist University.
+All rights reserved.
+
+For r2sundials wrapper:
+Copyright (c) 2023, INRAE/INSA/CNRS
+All rights reserved.

@@ -1,0 +1,30 @@
+COPYRIGHT STATUS
+----------------
+
+All the code in this package is 
+
+	Copyright (C) 2007-2010 YUIMA Project Team
+
+
+The YUIMA Project Team is primarily composed by (in alphabetic order)
+
+Alexandre Brouste
+Masaaki Fukasawa
+Hideitsu Hino
+Stefano M. Iacus
+Kengo Kamatani
+Hiroki Masuda
+Yusutaka Shimizu
+Masayuki Uchida
+Nakahiro Yoshida (Director)
+
+The YUIMA Project was founded (2007-2010) by JST grant XXX [Please fill]
+
+To contact the YUIMA Project Team, please check Project home page at
+
+	http://R-Forge.R-project.org/projects/yuima/
+
+
+All code is subject to the GNU General Public License, Version 2. See
+the file COPYING for the exact conditions under which you may
+redistribute it.

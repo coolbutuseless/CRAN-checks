@@ -1,0 +1,14 @@
+Various files in this package have different copyrights.
+
+R/cvmboost
+R/gamplot
+R/gamplot_out
+R/fpartial
+
+The files are modified based on code in R package mboost originally written 
+by Torsten Hothorn [aut, cre], Peter Buehlmann [aut], Thomas Kneib [aut], Matthias Schmid [aut], Benjamin Hofner [aut]. License: GPL (>=2)
+
+R/partialPlot
+
+The file is modified based on code in R package randomForest originally written: Fortran original by Leo Breiman and Adele Cutler, R port by Andy Liaw and Matthew Wiener. License: GPL (>=2)
+

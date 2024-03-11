@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------
+          				Copyright
+--------------------------------------------------------------------------------
+
+The code of this package is licenced under GPL-2. 
+
+The funcions format.perc and confint.lm are copyright (C) 1994-2003 W. N. 
+Venables and B. D. Ripley, copyright (C) 2003-2012 The R Core Team, and 
+the function toLatex.sessionInfo is copyright (C) 1995-2013 The R Core Team. 
+
+All other code is copyright (C) Benjamin Hofner.
+
+For a detailed description and autorship see inst/CONTRIBUTIONS.

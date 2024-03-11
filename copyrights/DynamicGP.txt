@@ -1,0 +1,42 @@
+Files: src/covar_sep.c src/gp_sep.cpp src/util.c
+       src/include/gp_sep.hpp src/include/util.h
+Copyright: 2013, The University of Chicago
+Author(s): Robert B. Gramacy <rbg@vt.edu>
+Licence: GPL>=2.1
+
+Files: src/linalg.c src/rhelp.c src/include/linalg.h src/include/matrix.h
+       src/include/rhelp.h
+Copyright: 2005, University of California
+Author(s): Robert B. Gramacy <rbg@vt.edu>
+Licence: GPL>=2.1
+
+Files: src/matrix.c
+Copyright: 2005, University of California
+Author(s): Robert B. Gramacy <rbg@vt.edu>, Nicolas Devillard
+Licence: GPL>=2.1
+
+Files: src/lbfgsb.f
+Author(s): Ciyou Zhu, Richard Byrd, Peihuang Lu-Chen, Jorge Nocedal, Jose Luis Morales
+Licence: Condition for Use: This software is freely available, but we expect that all
+	 publications describing  work using this software , or all commercial products
+	 using it, quote at least one of the references given below. This software is
+	 released under the "New BSD License" (aka "Modified BSD License" or "3-clause
+	 license").
+
+Files: src/timer.f
+Author(s): Jorge Nocedal, Jose Luis Morales
+Licence: Condition for Use: This software is freely available, but we expect that all
+	 publications describing  work using this software , or all commercial products
+	 using it, quote at least one of the references given below. This software is
+	 released under the "New BSD License" (aka "Modified BSD License" or "3-clause
+	 license").
+
+Files: src/lautil.f src/limhpar.f src/liqrev.f src/liqrup.f src/lirslv.f
+       src/nwbjac.f src/nwbrdn.f src/nwclsh.f src/nwddlg.f src/nwglsh.f
+       src/nwmhlm.f src/nwnjac.f src/nwnleq.f src/nwnwtn.f src/nwpdlg.f
+       src/nwpure.f src/nwqlsh.f src/nwtrup.f src/nwutil.f src/nwout.c
+Author(s): Berend Hasselman
+Licence: GPL>=2
+
+Files: src/mydgemv.f src/mydtrmv.f
+Author(s): Jack Dongarra, Jeremy Du Croz, Sven Hammarling, Richard Hanson

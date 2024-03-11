@@ -1,0 +1,16 @@
+Files: inst/include/alglib/*.h
+Copyright: ALGLIB Project
+License: GPL 2+
+
+Files: src/alglib/*.cpp
+Copyright: ALGLIB Project
+License: GPL 2+
+
+Files: inst/include/*.h
+Copyright: 2019-2021 Juan C. Vidal and Marcos Matabuena
+License: GPL 2+
+
+Files: src/*.cpp
+Copyright: ALGLIB Project
+License: GPL 2+
+

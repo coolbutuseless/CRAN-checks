@@ -1,0 +1,27 @@
+R2SWF is built upon several other projects, and part of the code is copied
+or derived from these projects.
+
+
+The source files in "src/libming" directory are derived and modified from
+the Ming project (http://www.libming.org/).
+
+Copyright (C) 2001 Opaque Industries - http://www.opaque.net/
+
+See src/libming/README to get general information about the Ming library.
+
+
+The four files in src/ subdirectory,
+
+rsvg-bpath-util.h
+rsvg-bpath-util.c
+rsvg-path.h
+rsvg-path.c
+
+are derived and modified from librsvg (https://wiki.gnome.org/LibRsvg).
+
+rsvg-bpath-util.h and rsvg-path.h are under
+Copyright (C) 2000 Eazel, Inc. and
+Copyright (C) 2002 Dom Lachowicz <cinamod@hotmail.com>.
+rsvg-bpath-util.c and rsvg-path.c are under
+Copyright (C) 2000 Eazel, Inc.
+

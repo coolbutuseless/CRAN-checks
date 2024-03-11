@@ -1,0 +1,17 @@
+Overall license:
+================
+
+   All of the work within the package is released under the
+   GNU GPL (>= 3).
+
+Details:
+========
+
+Files: *
+Copyright: 2019 James Joseph Balamuta
+License: GPL (>= 3)
+
+Files: inst/include/pg_*
+Copyright: 2012-2019 Nicholas Polson, James Scott, Jesse Windle
+License: GPL (>= 3)
+

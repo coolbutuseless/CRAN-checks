@@ -1,0 +1,42 @@
+The sdmTMB package as a whole is distributed under GPL-3 (GNU General Public
+License Version 3).
+
+The sdmTMB package includes other open source software components. The following
+is a list of these components.
+
+- VAST, https://github.com/James-Thorson-NOAA/VAST
+- glmmTMB, https://github.com/glmmTMB/glmmTMB
+- SPDE barrier implementation, https://github.com/skaug/tmb-case-studies
+- mgcv, https://CRAN.R-project.org/package=mgcv
+- brms, https://CRAN.R-project.org/package=brms
+- TMB anisotropy R implementation, https://github.com/kaskr/adcomp/tree/master/tmb_examples
+
+
+The following are licensed under GPL-3 as included for sdmTMB:
+
+1. VAST for the general structure of the original TMB model code
+   (heavily modified into src/sdmTMB.cpp), anisotropy plotting code (modified
+   into R/plot.R plot_anisotropy() and plot_anisotropy2()), approach to
+   bias correction (R/index.R get_generic()), and approach to optimization
+   (modified into R/extra-optimization.R)
+
+The following are licensed under AGPL-3:
+
+1. glmmTMB for general approach to prediction (heavily modified into
+   R/predict.R) selected parameterizations of the likelihood densities
+   (src/sdmTMB.cpp 'family' section: truncated distributions, nbinom1, Beta)
+   effects methods (R/methods.R Effect.sdmTMB()), and emmeans methods (emmeans.R).
+
+The following are licensed under GPL-2:
+
+1. SPDE barrier implementation (src/utils.h spde_barrier_t and R/mesh.R
+   make_barrier_spde())
+
+2. Function to aid prediction from smooths from mgcv documentation
+   smooth2random() (R/smoothers.R s2rPred())
+
+3. brms code snippets used to construct penalized smoother matrices with mgcv
+   tools (modified into R/smoothers.R parse_smoothers())
+
+4. TMB anisotropy R implementation from TMB examples folder (R/mesh.R
+   make_anisotropy_spde()) and corresponding code in src/sdmTMB.cpp

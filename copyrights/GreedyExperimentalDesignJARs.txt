@@ -1,0 +1,6 @@
+The following open source Java libraries are included in this package:
+
+- Commons Math: The Apache Commons Mathematics Library under the Apache License 2.0, 
+  Version 3.6.1 March 17, 2016,
+  http://commons.apache.org/proper/commons-math/, 
+  Copyright 2003-2014 The Apache Software Foundation

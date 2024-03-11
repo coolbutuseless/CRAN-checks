@@ -1,0 +1,38 @@
+Overall license
+===============
+
+tseriesTARMA: Analysis of Nonlinear Time Series Through TARMA models
+Copyright (C) 2019-2022  Simone Giannerini
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+The years in the copyright notice above are to be understood as a
+range, including the years on both ends.
+
+Remarks
+=======
+
+ORDERPACK 2.0
+-----------------
+
+The Fortran module in:
+
+- src/mrgrnk.f90
+
+was adapted from 
+
+ORDERPACK 2.0 -- Unconditional, Unique, and Partial Ranking, Sorting, 
+and Permutation Downloadable Fortran 90 source code
+
+Copyright 2011 Michel Olagnon

@@ -1,0 +1,107 @@
+The following open source Java libraries are included in this package:
+
+- Apache Commons Logging under the Apache License, 
+  Version 2.0, January 2004, 
+  http://commons.apache.org/logging/, 
+  Copyright 2001-2007 The Apache Software Foundation 
+  Source code: http://apache.mirror.iphh.net//commons/logging/source/commons-logging-1.2-src.zip
+
+- Apache jog4j under Apache License 2.0, 
+  http://logging.apache.org/log4j/, 
+  Copyright 2007 The Apache Software Foundation
+  Source code: http://archive.apache.org/dist/logging/log4j/1.2.17/log4j-1.2.17-sources.jar
+
+- Apache Commons Lang under Apache License 2.0, 
+  http://commons.apache.org/lang/, 
+  Copyright 2001-2011 The Apache Software Foundation
+  Source code: http://mirror.softaculous.com/apache//commons/lang/binaries/commons-lang-2.6-bin.zip
+
+- Apache Commons Collections under the Apache License, 
+  Version 2.0, January 2004, http://commons.apache.org/collections/,  
+  Copyright 2001-2008 The Apache Software Foundation
+  Source code: http://mirror.23media.de/apache//commons/collections/source/commons-collections4-4.0-src.zip
+
+- Apache Commons Validator under the Apache License, 
+  Version 2.0, January 2004, http://commons.apache.org/validator/,  
+  Copyright 2001-2010 The Apache Software Foundation
+  Source code: http://mirror.23media.de/apache//commons/validator/source/commons-validator-1.4.0-src.zip
+
+- Apache Commons IO under the Apache License, 
+  Version 2.2 (last compatible with JDK 1.5), 2004, http://commons.apache.org/io/,  
+  Copyright 2002-2012 The Apache Software Foundation
+  Source code for Java 6: http://archive.apache.org/dist/commons/io/source/commons-io-2.4-src.tar.gz
+  Source code for Java 5: http://archive.apache.org/dist/commons/io/source/commons-io-2.2-src.zip
+
+- JLaTeXMath under GPL >= 2.0, 
+  http://forge.scilab.org/index.php/p/jlatexmath/,  
+  Copyright 2004-2007, 2009 Calixte, Coolsaet, Cleemput, Vermeulen and Universiteit Gent
+  Source code: http://forge.scilab.org/index.php/p/jlatexmath/downloads/693/
+
+- iText 2.1.4 under LGPL, 
+  http://itextpdf.com/,  
+  Copyright by Bruno Lowagie 
+  Source code: http://repo1.maven.org/maven2/com/lowagie/itext/2.1.4/itext-2.1.4-sources.jar
+
+- JSON Processing dual licensed under CDDL 1.1 and GPL 2 with Classpath Exception,
+  https://jsonp.java.net/,
+  Copyright (c) 2011-2013 Oracle
+  Source code: https://jsonp.java.net/scm.html
+
+- SwingWorker under LGPL, 
+  https://java.net/projects/swingworker/,  
+  Copyright (c) 2005 Sun Microsystems 
+  Source: http://www.java2s.com/Code/Jar/s/Downloadswingworker11sourcesjar.htm
+
+- JXLayer under BSD License, 
+  https://java.net/projects/jxlayer/,  
+  Copyright 2006-2009, Alexander Potochkin 
+  Source: https://svn.java.net/svn/jxlayer~svn/, revision 136
+
+- JGoodies Forms and Commons under BSD License, 
+  http://www.jgoodies.com/freeware/libraries/forms/,  
+  Copyright JGoodies Karsten Lentzsch 
+  Source code for Java 5: http://www.jgoodies.com/download/libraries/forms/jgoodies-forms-1_4_2.zip
+    http://www.jgoodies.com/download/libraries/common/jgoodies-common-1_2_1.zip
+  Source code for Java 6: http://www.jgoodies.com/download/libraries/forms/jgoodies-forms-1_7_2.zip
+    http://www.jgoodies.com/download/libraries/common/jgoodies-common-1_6_0.zip
+
+- AFCommons under LGPL >= 2.1, 
+  https://github.com/kornl/afcommons/,  
+  Copyright (c) 2007-2014 by Kornelius Rohmeyer, Bernd Bischl, Santhosh Kumar T (ComponentTitledBorder class), 
+  Jerry Huxtable (filter code), Sebastian Haufe (JListDnD class), Romain Guy (Star class), Oracle (CloseTabPanel)
+  Source code: https://github.com/kornl/afcommons/archive/v1.0-0.tar.gz
+
+- JHLIR under BSD License, 
+  http://jhlir.r-forge.r-project.org/,  
+  Copyright (c) 2008-2010 by Bernd Bischl and Kornelius Rohmeyer
+  Source code: https://github.com/kornl/jhlir2/archive/v1.0-0.tar.gz
+
+- JRIEngine and REngine under LGPL-2.1, 
+  http://www.rforge.net/rJava/, 
+  Copyright 2010 by Simon Urbanek. 
+  Please use these two jar files only if package rJava does not provide them.
+  Source code: http://cran.r-project.org/src/contrib/Archive/rJava/rJava_0.9-5.tar.gz
+
+
+Licence
+=======
+
+    This is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2.1 or 3 of the License
+    (at your option).
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU Lesser General Public License for more details.
+
+The files GPL-2, GPL-3, LGP-2.1, LGPL-3 and BSD-3-clause in the folder 
+share/licenses of the R (source or binary) distribution are copies of 
+the respective licenses above.
+They are also found at http://www.r-project.org/licenses/
+
+You may obtain a copy of the Apache License, Version 2.0 at
+http://www.apache.org/licenses/LICENSE-2.0
+
+The source code can be found at the given URLs.

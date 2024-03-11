@@ -1,0 +1,33 @@
+COPYRIGHT STATUS
+
+This code is copyright by Serge Iovleff, University Lille 1, Inria.
+
+See the file LICENSE for the exact conditions under which you may redistribute it.
+
+
+--------------------------------------------------------------------------------
+The file Rmath.h is copyright by:
+Copyright (C) 1998-2003  The R Development Core Team
+Copyright (C) 2004       The R Foundation
+
+
+--------------------------------------------------------------------------------
+The file MersenneTwister.h is copyright by:
+Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura,
+Copyright (C) 2000 - 2003, Richard J. Wagner
+Copyright (C) 2005,        Serge Iovleff
+
+
+--------------------------------------------------------------------------------
+Cephes Math Library is Copyright 1984, 1987, 1988, 1992 by Stephen L. Moshier
+
+
+--------------------------------------------------------------------------------
+The lapack library is
+Copyright (c) 1992-2013 The University of Tennessee and The University
+                        of Tennessee Research Foundation.  All rights
+                        reserved.
+Copyright (c) 2000-2013 The University of California Berkeley. All
+                        rights reserved.
+Copyright (c) 2006-2013 The University of Colorado Denver.  All rights
+                        reserved.

@@ -1,0 +1,8 @@
+COPYRIGHT STATUS
+----------------
+
+  Copyright (C) 2012 Faria, J. C., Allaman, I. G. and Jelihovschi, E. G.
+
+All code is subject to the GNU General Public License, Version 2. See
+the file COPYING for the exact conditions under which you may
+redistribute it.

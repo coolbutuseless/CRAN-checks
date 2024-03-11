@@ -1,0 +1,95 @@
+The 134 included header files contain the following Copyright notices
+which have been extracted by careful use of fine, grep, sort and uniq.
+
+    // Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+    Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura,
+    Copyright (C) 2000, 2001, 2002, 2003 RiskMap srl
+    Copyright (C) 2000, 2001, 2002, 2003 RiskMap srl
+    Copyright (C) 2001, 2002, 2003 Nicolas Di Césaré
+    Copyright (C) 2001, 2002, 2003 Sadruddin Rejeb
+    Copyright (C) 2002, 2003, 2006 Ferdinando Ametrano
+    Copyright (C) 2002, 2003 Decillion Pty(Ltd)
+    Copyright (C) 2002, 2003 Ferdinando Ametrano
+    Copyright (C) 2002, 2003 Sadruddin Rejeb
+    * Copyright (C) 2002 Peter Jäckel "Monte Carlo Methods in Finance".
+    Copyright (C) 2003, 2004, 2005, 2006, 2007 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005, 2006, 2008 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005, 2006, 2009 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005, 2006, 2010 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005, 2006 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005, 2006 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005, 2007 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2005 StatPro Italia srl
+    Copyright (C) 2003, 2004, 2008 StatPro Italia srl
+    Copyright (C) 2003, 2004 Ferdinando Ametrano
+    Copyright (C) 2003, 2004 StatPro Italia srl
+    Copyright (C) 2003 Ferdinando Ametrano
+    Copyright (C) 2003 Neil Firth
+    Copyright (C) 2003 RiskMap srl
+    Copyright (C) 2003 Roman Gitlin
+    Copyright (C) 2003 StatPro Italia srl
+    Copyright (C) 2004, 2005, 2006, 2007, 2008 Ferdinando Ametrano
+    Copyright (C) 2004, 2005, 2006, 2007 Ferdinando Ametrano
+    Copyright (C) 2004, 2005, 2006, 2007 StatPro Italia srl
+    Copyright (C) 2004, 2005, 2006 Ferdinando Ametrano
+    Copyright (C) 2004, 2005, 2007, 2009 StatPro Italia srl
+    Copyright (C) 2004, 2005, 2007 StatPro Italia srl
+    Copyright (C) 2004, 2005 StatPro Italia srl
+    Copyright (C) 2004, 2008, 2009, 2011 Ferdinando Ametrano
+    Copyright (C) 2004, 2008 Ferdinando Ametrano
+    Copyright (C) 2004, 2011 Ferdinando Ametrano
+    Copyright (C) 2004 Decillion Pty(Ltd)
+    Copyright (C) 2004 Ferdinando Ametrano
+    Copyright (C) 2004 StatPro Italia srl
+    Copyright (C) 2004 Walter Penschke
+    Copyright (C) 2005, 2006 Klaus Spanderen
+    Copyright (C) 2005, 2006 StatPro Italia srl
+    Copyright (C) 2005, 2008 StatPro Italia srl
+    Copyright (C) 2005, 2009 StatPro Italia srl
+    Copyright (C) 2005 Gary Kennedy
+    Copyright (C) 2005 Klaus Spanderen
+    Copyright (C) 2006, 2007, 2011 Ferdinando Ametrano
+    Copyright (C) 2006, 2007 Ferdinando Ametrano
+    Copyright (C) 2006, 2009, 2010 Klaus Spanderen
+    Copyright (C) 2006 Ferdinando Ametrano
+    Copyright (C) 2006 Joseph Wang
+    Copyright (C) 2006 Katiuscia Manzoni
+    Copyright (C) 2006 Klaus Spanderen
+    Copyright (C) 2006 Mark Joshi
+    Copyright (C) 2006 Piter Dias
+    Copyright (C) 2006 Richard Gould
+    Copyright (C) 2006 StatPro Italia srl
+    Copyright (C) 2006 Toyin Akin
+    Copyright (C) 2007, 2011 Ferdinando Ametrano
+    Copyright (C) 2007 Ferdinando Ametrano
+    Copyright (C) 2007 François du Vignaud
+    Copyright (C) 2007 Marco Bianchetti
+    Copyright (C) 2007 Mark Joshi
+    Copyright (C) 2007 StatPro Italia srl
+    Copyright (C) 2008 Klaus Spanderen
+    Copyright (C) 2008 StatPro Italia srl
+    Copyright (C) 2009 Bojan Nikolic
+    Copyright (C) 2009 Dirk Eddelbuettel
+    Copyright (C) 2009 Frédéric Degraeve
+    Copyright (C) 2009 FrÃ©dÃ©ric Degraeve
+    Copyright (C) 2009 Mark Joshi
+    Copyright (C) 2009 StatPro Italia srl
+    Copyright (C) 2009 Sylvain Bertrand
+    Copyright (C) 2010 Kakhkhor Abdijalilov
+    Copyright (C) 2010 Slava Mazur
+    Copyright (C) 2010 StatPro Italia srl
+    Copyright (C) 2011, 2012 Ferdinando Ametrano
+    Copyright (C) 2011 Ferdinando Ametrano
+    Copyright (C) 2012 Klaus Spanderen
+    Copyright (C) 2012 Mateusz Kapturski
+    Copyright (C) 2012 Ralph Schreyer
+    Copyright (C) 2013 Chris Higgs
+    Copyright (C) 2013 Peter Caspers
+    Copyright (C) 2014 Paolo Mazzocchi
+    Copyright (C) 2015 CompatibL
+    Copyright (C) 2015 Klaus Spanderen
+    Copyright (C) 2015 Klaus Spanderen
+    Copyright (C) 2015 Michael von den Driesch
+    Copyright (C) 2015 Peter Caspers
+    C translation Copyright (C) Steve Moshier
+    The original Fortran version is Copyright (C) 1999 University of Chicago.

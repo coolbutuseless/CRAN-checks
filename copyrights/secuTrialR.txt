@@ -1,0 +1,3 @@
+interActive Systems statement:
+InterActive Systems (iAS) has given permission for the open source development of this software
+package but accepts no responsibility for the correctness of any functionalities within.
