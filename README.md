@@ -28,6 +28,11 @@ outlines what I have in place for automatic testing.
     * Build/test package using clang-ASAN
     * Build/test package using valgrind 
 
+## Documentation
+
+* `checkhelper::check_as_cran()`
+* `checkhelper::find_missing_tags()`
+
 ## Run `R CMD CHECK --as-cran`
 
 Run `R CMD CHECK --as-cran` on final source package about to be submitted to CRAN
