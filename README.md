@@ -109,6 +109,7 @@ Notes about fixes for CRAN I've had to do when submitting a package
 * Build status of R itself: https://contributor.r-project.org/svn-dashboard/
 * Search for terms in the github CRAN mirror: https://github.com/search?utf8=%E2%9C%93&q=org%3Acran+path%3ADESCRIPTION+cairo&type=code
 * CRAN:
+    * Status of submitted packages: https://r-hub.github.io/cransays/articles/dashboard.html
     * Recently archived packages: http://www.cranhaven.org/dashboard-live.html
     * Packages nearing archival deadlines (Matt Dray): https://mattdray.shinyapps.io/cran-deadlines/
     * Packages nearing archival deadlines (Hadley Wickham): https://hadley.github.io/cran-deadlines/
