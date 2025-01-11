@@ -97,6 +97,13 @@ Notes about fixes for CRAN I've had to do when submitting a package
     * A package submission was rejected as I said `C library` when I should have had `'C' library`
 * The name for the copyright holder in `LICENSE` file, and the copyright holder in the `Authors` field in `DESCRIPTION` should match
 
+## Find functions which do not have an example
+
+``` r
+system("grep -c examples man/*Rd", intern = TRUE) |> 
+  grep(":0$", x = _, value = TRUE)
+```
+
 # Reminders
 
 * Have you called `normalizePath()` on all the file paths?
