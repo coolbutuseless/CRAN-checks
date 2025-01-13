@@ -123,6 +123,7 @@ system("grep -c examples man/*Rd", intern = TRUE) |>
     * Web based search of available packages on CRAN and BioConductor: https://llrs.github.io/cranis/articles/dashboard.html
     * View the difference between two different versionso of a package: https://diffify.com/
 * Status of API calls stable/experimental/etc: https://yutannihilation.github.io/R-fun-API/
+* CRAN submissions tracker: https://nx10.github.io/cransubs/
   
 
 
